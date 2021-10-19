@@ -1,0 +1,7 @@
+C:\Users\Leonid.Ristanovski\source\repos\Simple_Mutex_Demo\Simple_Mutex_Demo\bin\Debug\Simple_Mutex_Demo.exe.config
+C:\Users\Leonid.Ristanovski\source\repos\Simple_Mutex_Demo\Simple_Mutex_Demo\bin\Debug\Simple_Mutex_Demo.exe
+C:\Users\Leonid.Ristanovski\source\repos\Simple_Mutex_Demo\Simple_Mutex_Demo\bin\Debug\Simple_Mutex_Demo.pdb
+C:\Users\Leonid.Ristanovski\source\repos\Simple_Mutex_Demo\Simple_Mutex_Demo\obj\Debug\Simple_Mutex_Demo.csproj.AssemblyReference.cache
+C:\Users\Leonid.Ristanovski\source\repos\Simple_Mutex_Demo\Simple_Mutex_Demo\obj\Debug\Simple_Mutex_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Leonid.Ristanovski\source\repos\Simple_Mutex_Demo\Simple_Mutex_Demo\obj\Debug\Simple_Mutex_Demo.exe
+C:\Users\Leonid.Ristanovski\source\repos\Simple_Mutex_Demo\Simple_Mutex_Demo\obj\Debug\Simple_Mutex_Demo.pdb
